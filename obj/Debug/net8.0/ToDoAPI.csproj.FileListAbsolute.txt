@@ -160,3 +160,4 @@ C:\Users\Pris\temp\ApiToDo\ToDoAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Wo
 C:\Users\Pris\temp\ApiToDo\ToDoAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Pris\temp\ApiToDo\ToDoAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Pris\temp\ApiToDo\ToDoAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Pris\temp\ApiToDo\ToDoAPI\obj\Debug\net8.0\ToDoAPI.sourcelink.json
